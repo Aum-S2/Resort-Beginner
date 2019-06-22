@@ -5,7 +5,7 @@
 }
 
 html,body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   line-height: 1.8em;
 }
 
@@ -64,6 +64,6 @@ p {
 
 #navbar ul li a:hover,
 #navbar ul li a.current {
-  background: deepskyblue;
+  background: rgb(0, 174, 255);
   color: greenyellow;
 }
