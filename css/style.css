@@ -54,8 +54,8 @@ p {
 }
 
 .btn:hover {
-  background: #EC6D42;
-  color: darkgreen;
+  background: darkgreen;
+  color: #fff;
 }
 
 /* navbar */
