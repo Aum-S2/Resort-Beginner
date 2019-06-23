@@ -38,6 +38,10 @@ p {
   color: olivedrab;
 }
 
+.ann {
+  color: rgb(18, 110, 58);
+}
+
 .Bigger-P {
   font-size: 20px;
 }
@@ -61,6 +65,11 @@ p {
 .btn-light {
   background: #f4f4f4;
   color: black;
+}
+
+.bg-dark {
+  background: #2E2E2E;
+  color: #fff;
 }
 
 /* navbar */
@@ -126,7 +135,22 @@ p {
 
 /* home info section */
 
+#home-info {
+  height: 400px;
+}
 
+#home-info .info-img {
+  float: left;
+  width: 50%;
+  background: url('../img/resort\ bcj.jpg') no-repeat;
+  min-height: 100%;
+}
 
-
+#home-info .info-content {
+  float: right;
+  width: 50%;
+  height: 100%;
+  text-align: center;
+  padding: 52px 28px;
+}
 
