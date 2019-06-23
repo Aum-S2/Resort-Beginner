@@ -58,6 +58,11 @@ p {
   color: #fff;
 }
 
+.btn-light {
+  background: #f4f4f4;
+  color: black;
+}
+
 /* navbar */
 
 #navbar {
@@ -118,6 +123,10 @@ p {
   padding-bottom: 18px;
   line-height: 1.6em;
 }
+
+/* home info section */
+
+
 
 
 
