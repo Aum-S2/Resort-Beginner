@@ -72,6 +72,16 @@ p {
   color: #fff;
 }
 
+.bg-dark2 {
+  background: #EB6D33;
+  color: #2E2E2E;
+}
+
+.bg-light {
+  background: #f4f4f4;
+  color: #2E2E2E;
+}
+
 /* navbar */
 
 #navbar {
@@ -157,4 +167,20 @@ p {
 #home-info .info-content p {
   padding-bottom: 18px;
 }
+
+/* Features */
+
+.box {
+  float: left;
+  width: 33.33%;
+  padding: 40px;
+  text-align: center;
+}
+
+.box i {
+  margin-bottom: 8px;
+}
+
+
+
 
