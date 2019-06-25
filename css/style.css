@@ -181,6 +181,14 @@ p {
   margin-bottom: 8px;
 }
 
+footer { 
+  width: 100%;
+  padding: 30px 0px;
+  text-align: center;
+}
 
+footer p {
+  padding-top: 15px;
+}
 
 
