@@ -142,7 +142,7 @@ p {
 #home-info .info-img {
   float: left;
   width: 50%;
-  background: url('../img/resort\ bcj.jpg') no-repeat;
+  background: url('../img/resort\ bcj.jpg')center center/cover no-repeat;
   min-height: 100%;
 }
 
@@ -152,5 +152,9 @@ p {
   height: 100%;
   text-align: center;
   padding: 52px 28px;
+}
+
+#home-info .info-content p {
+  padding-bottom: 18px;
 }
 
