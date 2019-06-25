@@ -30,6 +30,10 @@ p {
   padding: 0 20px;
 }
 
+.crl {
+  clear: both;
+}
+
 .text-primary {
   color: darkgreen;
 }
@@ -181,14 +185,14 @@ p {
   margin-bottom: 8px;
 }
 
-footer { 
-  width: 100%;
-  padding: 30px 0px;
+/* main footer */
+
+#main-footer { 
   text-align: center;
+  background: #2E2E2E;
+  color: #f4f4f4;
+  padding: 6px;
 }
 
-footer p {
-  padding-top: 15px;
-}
 
 
