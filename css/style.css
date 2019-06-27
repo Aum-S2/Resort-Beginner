@@ -86,6 +86,11 @@ p {
   color: #2E2E2E;
 }
 
+/* padding */
+.padding-Y1 { padding: 10px 0; }
+.padding-Y2 { padding: 20px 0; }
+.padding-Y3 { padding: 30px 0; }
+
 /* navbar */
 
 #navbar {
