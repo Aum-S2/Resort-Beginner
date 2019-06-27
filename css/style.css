@@ -185,6 +185,27 @@ p {
   margin-bottom: 8px;
 }
 
+/* About Page */
+
+#about-info .info-right {
+  float: right;
+  width: 50%;
+  min-height: 100%;
+}
+
+#about-info .info-right img {
+  display: block;
+  margin: auto;
+  width: 70%;
+}
+
+#about-info .info-left {
+  float: left;
+  width: 50%;
+  min-height: 100%;
+}
+
+
 /* main footer */
 
 #main-footer { 
