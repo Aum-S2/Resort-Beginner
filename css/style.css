@@ -215,6 +215,24 @@ p {
   min-height: 100%;
 }
 
+/* testimonials */
+
+#testimonials {
+  height: 600px;
+  background: url('/img/architecture-boats-buildings.jpg') no-repeat center center/cover;
+  padding-top: 38px;
+}
+
+#testimonials h2 {
+  color: #2E2E2E;
+  text-align: center;
+  padding-bottom: 38px;
+}
+
+#testimonials .testimonial img {
+  width: 80px;
+}
+
 
 /* main footer */
 
