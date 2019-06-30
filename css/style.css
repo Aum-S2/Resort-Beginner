@@ -220,7 +220,7 @@ p {
 #testimonials {
   height: 600px;
   background: url('/img/architecture-boats-buildings.jpg') no-repeat center center/cover;
-  padding-top: 38px;
+  padding-top: 90px;
 }
 
 #testimonials h2 {
@@ -232,7 +232,8 @@ p {
 #testimonials .testimonial {
   padding: 20px;
   margin-bottom: 42px;
-  border-radius: 6px;;
+  border-radius: 6px;
+  opacity: 0.94;
 }
 
 #testimonials .testimonial img {
