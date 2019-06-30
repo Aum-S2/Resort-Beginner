@@ -229,8 +229,17 @@ p {
   padding-bottom: 38px;
 }
 
+#testimonials .testimonial {
+  padding: 20px;
+  margin-bottom: 42px;
+  border-radius: 6px;;
+}
+
 #testimonials .testimonial img {
-  width: 80px;
+  width: 70px;
+  float: left;
+  margin-right: 20px;
+  border-radius: 50%;
 }
 
 
