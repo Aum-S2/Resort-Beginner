@@ -23,6 +23,7 @@ p {
 }
 
 /* Use Them Everywhere */
+
 .container {
   margin: auto;
   max-width: 1100px;
@@ -81,6 +82,11 @@ p {
   color: #2E2E2E;
 }
 
+.bg-darkk {
+  background: #333;
+  color: #fff;
+}
+
 .bg-light {
   background: #f4f4f4;
   color: #2E2E2E;
@@ -91,6 +97,7 @@ p {
 }
 
 /* padding */
+
 .padding-Y1 { padding: 10px 0; }
 .padding-Y2 { padding: 20px 0; }
 .padding-Y3 { padding: 30px 0; }
@@ -244,6 +251,7 @@ p {
 }
 
 /* Contact Form */
+
 #contact-form .form-group {
   margin-bottom: 22px;
 }
